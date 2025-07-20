@@ -1,0 +1,29 @@
+.projects-section {
+  background-color: #121212; /* Deep dark background */
+}
+
+/* Card hover animation */
+.project-card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border-radius: 10px;
+}
+
+.project-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.25);
+}
+
+/* Typography */
+.project-card .card-title {
+  font-size: 1.25rem;
+}
+
+.project-card .card-text {
+  font-size: 1rem;
+}
+
+/* Badge tweaks (optional) */
+.badge {
+  padding: 0.5em 0.75em;
+  font-weight: 600;
+}

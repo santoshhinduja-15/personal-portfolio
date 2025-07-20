@@ -1,0 +1,21 @@
+/* Optional cleanup if body or global layout causes extra spacing */
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #000;
+}
+
+#work-experience {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+#card-color {
+  background-color: red;
+  color: #fff;
+}
+
+.project-card:hover {
+  transform: scale(1.01);
+  box-shadow: 0 0 15px rgba(97, 180, 148, 0.3);
+}
