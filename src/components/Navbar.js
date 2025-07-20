@@ -4,7 +4,7 @@ import "./Navbar.css"; // Optional custom CSS for overrides
 
 export default function Navbar() {
   return (
-    <nav className="navbar navbar-expand-lg navbar-dark bg-dark py-2 shadow-sm fixed-top">
+    <nav className="navbar navbar-expand-lg navbar-dark bg-dark py-2 shadow-sm fixed-top border border-5 border-warning rounded mt-2">
       <div className="container">
         <NavLink
           className="navbar-brand fs-5 fw-bold d-flex align-items-center"
