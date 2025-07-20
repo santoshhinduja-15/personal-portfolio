@@ -29,3 +29,13 @@ npm start
 
 # Screenshots
 Home Page
+<img width="1903" height="888" alt="image" src="https://github.com/user-attachments/assets/625780f8-7542-4159-86cb-08ace15f7947" />
+
+Projects Page
+<img width="1025" height="693" alt="image" src="https://github.com/user-attachments/assets/6203414f-72a9-463c-9ba7-6202a4827b04" />
+
+Experience Page
+<img width="1913" height="890" alt="image" src="https://github.com/user-attachments/assets/9aa1005e-293e-4812-8240-3bdc143b1d7a" />
+
+Contact Page
+<img width="1919" height="905" alt="image" src="https://github.com/user-attachments/assets/674cddf1-d281-4289-a26c-6bce209a2e93" />
