@@ -71,7 +71,7 @@ export default function Projects() {
   return (
     <section className="projects-section text-light" id="projects">
       <div className="container py-5">
-        <h2 className="text-center fw-bold display-5 mt-4">
+        <h2 className="text-center fw-bold display-5 mt-5">
           <i className="bi bi-kanban-fill text-success me-2"></i>My Projects
         </h2>
         <p className="lead text-center mb-5 fs-5">
